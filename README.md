@@ -1,0 +1,2 @@
+# SchoolNotify
+School management application
